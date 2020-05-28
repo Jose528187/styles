@@ -1,1 +1,47 @@
 
+
+@font-face {
+    font-family: 'sandblacks';
+    src: local('fonts/Sandblack.ttf'), url('fonts/Sandblack.ttf') format('truetype');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'COPRGTB';
+    src: local('fonts/COPRGTB.TTF'), url('fonts/COPRGTB.TTF') format('truetype');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'COPRGTL';
+    src: local('fonts/COPRGTL.TTF'), url('fonts/COPRGTL.TTF') format('truetype');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'forte';
+    src: local('fonts/FORTE.TTF'), url('fonts/FORTE.TTF') format('truetype');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'mistral';
+    src: local('fonts/MISTRAL.TTF'), url('fonts/MISTRAL.TTF') format('truetype');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'pristina';
+    src: local('fonts/PRISTINA.TTF'), url('fonts/PRISTINA.TTF') format('truetype');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'trajanproregular';
+    src: local('fonts/TrajanPro-Regular.ttf'), url('fonts/TrajanPro-Regular.ttf') format('truetype');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'vivaldi';
+    src: local('fonts/vivaldi.ttf'), url('fonts/vivaldi.ttf') format('truetype');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'vladimir';
+    src: local('fonts/VLADIMIR.TTF'), url('fonts/VLADIMIR.TTF') format('truetype');
+    font-style: normal;
+}
